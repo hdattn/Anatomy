@@ -23,10 +23,15 @@ The app allows users to know more about how human bodies function and the system
 ## Screenshots
 
 ## Getting Started
+
+## Prerequisites
 - Node.Js: https://nodejs.org/en
 - Expo: https://docs.expo.dev/get-started/installation/
 - Yarn: https://classic.yarnpkg.com/lang/en/docs/install/#mac-stable
+## Installation
+- Clone the repository to your local computer
+- Install dependencies using npm or yarn
+- Run the app using the command `yarn start` or another suitable command
 
-
-## Prerequisites
-Installation
+```bash
+git clone 
