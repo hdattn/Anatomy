@@ -34,4 +34,7 @@ The app allows users to know more about how human bodies function and the system
 - Run the app using the command `yarn start` or another suitable command
 
 ```bash
-git clone 
+git clone https://github.com/hdattn/Anatomy.git
+cd expo-tech-app
+yarn
+yarn start
