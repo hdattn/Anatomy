@@ -22,6 +22,11 @@ The app allows users to know more about how human bodies function and the system
 - Practice
 ## Screenshots
 
-Getting Started
-Prerequisites
+## Getting Started
+- Node.Js: https://nodejs.org/en
+- Expo: https://docs.expo.dev/get-started/installation/
+- Yarn: https://classic.yarnpkg.com/lang/en/docs/install/#mac-stable
+
+
+## Prerequisites
 Installation
